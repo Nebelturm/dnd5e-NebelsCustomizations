@@ -8,11 +8,11 @@
     "verified": "11"
   },
   "url": "https://github.com/foundryvtt/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.2.2/dnd5e-release-2.2.2.zip",
+  "manifest": "https://raw.githubusercontent.com/Nebelturm/dnd5e-NebelsCustomizations/master/system.json",
+  "download": "https://github.com/Nebelturm/dnd5e-NebelsCustomizations/releases/download/release-1.0/release-1.0.zip",
   "authors": [
     {
-      "name": "Atropos",
+      "name": "Atropos (Customized by Nebelturm)",
       "url": "https://foundryvtt.com",
       "flags": {}
     }
