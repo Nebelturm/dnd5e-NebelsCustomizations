@@ -700,6 +700,7 @@ DND5E.consumableTypes = {
   wand: "DND5E.ConsumableWand",
   rod: "DND5E.ConsumableRod",
   trinket: "DND5E.ConsumableTrinket"
+  influence: "DND5E.ConsumablesInfluence"
 };
 preLocalize("consumableTypes", { sort: true });
 
